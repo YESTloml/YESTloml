@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋 I'm YESTloml
 
-<!--
-**YESTloml/YESTloml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Economic Statistics Student  
+💻 Learning Big Data / Backend / AI Agent
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+- Java
+- Hadoop
+- Big Data Engineering
+- SQL
+- Agent Development
+- machine learning
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-orange)
+![Python](https://img.shields.io/badge/Python-blue)
+![SQL](https://img.shields.io/badge/SQL-green)
+
+### Big Data
+
+- Hadoop
+- HDFS
+- MapReduce
+
+### Tools
+
+- Git
+- Linux
+- Docker
+- Maven
+
+---
+
+## 📫 Contact
+
+GitHub: @YESTloml
