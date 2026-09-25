@@ -1,43 +1,35 @@
-# Hi 👋 I'm YESTloml
+YESTloml
 
-🎓 Economic Statistics Student  
-💻 Learning Big Data / Backend / AI Agent
+🎓 Economic Statistics + Big Data Student
 
----
+目标：
+Backend Engineer / AI Agent Engineer
 
-## 🚀 Currently Learning
 
-- Java
-- Hadoop
-- Big Data Engineering
-- SQL
-- Agent Development
-- machine learning
----
+🔥 Learning
 
-## 🛠 Tech Stack
+Java
+Hadoop
+SQL
+Linux
+Agent
 
-### Languages
 
-![Java](https://img.shields.io/badge/Java-orange)
-![Python](https://img.shields.io/badge/Python-blue)
-![SQL](https://img.shields.io/badge/SQL-green)
+🚀 Projects
 
-### Big Data
+1. Hadoop Practice Cluster
+2. AI Agent Project
+3. Data Analysis Project
 
-- Hadoop
-- HDFS
-- MapReduce
 
-### Tools
+📚 Notes
 
-- Git
-- Linux
-- Docker
-- Maven
+- Big Data
+- Distributed System
+- Database
 
----
 
-## 📫 Contact
+📊 GitHub Stats
 
-GitHub: @YESTloml
+
+🐍 Contribution Snake
