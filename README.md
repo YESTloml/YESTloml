@@ -1,100 +1,112 @@
-<h1 align="center">
-✨ Hi, I'm YESTloml
-</h1>
+<!-- Header -->
 
-<p align="center">
-🎓 Economic Statistics Student | 💻 Big Data & Backend Learner
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=YESTloml%20Github!&fontSize=60" />
 
 
----
-
-## 🌱 关于我
-
-- 🎓 一名经济统计学专业学生
-- 💻 正在学习 Java、大数据开发、AI Agent
-- 📚 喜欢记录学习过程和技术实践
-- 🚀 目标成为一名后端 / 数据方向工程师
+<div align="center">
 
 
----
-
-## 🔥 Currently Learning
-
-- ☕ Java
-- 🐘 Hadoop
-- 🗄️ SQL
-- 🐧 Linux
-- 🌐 Computer Networks
-- 🤖 AI Agent Development
+# 📚 Tech Stack 📚
 
 
----
-
-## 🛠️ Tech Stack
+## 🚀 Languages & Frameworks 🚀
 
 
-### Languages
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk">
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python">
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+<img src="https://img.shields.io/badge/MYSQL-green?style=for-the-badge&logo=mysql">
 
-![SQL](https://img.shields.io/badge/SQL-green?style=for-the-badge)
+<img src="https://img.shields.io/badge/LINUX-green?style=for-the-badge&logo=linux">
+<img src="https://img.shields.io/badge/SHELL-red?style=for-the-badge&logo=shell">
 
-
-### Big Data
-
-![Hadoop](https://img.shields.io/badge/Hadoop-yellow?style=for-the-badge&logo=apachehadoop)
-
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+<br>
 
 
-### Tools
+## 🛠 Tools 🛠
 
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+<img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git">
 
-![Maven](https://img.shields.io/badge/Maven-orange?style=for-the-badge&logo=apachemaven)
+<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker">
+
+<img src="https://img.shields.io/badge/Maven-orange?style=for-the-badge&logo=apachemaven">
+
+
+<br>
+
+
+
+
+</div>
 
 
 
 ---
 
-## 🚀 Projects
+<div align="center">
 
 
-### 🐘 Hadoop Practice
-
-> Hadoop 分布式系统学习项目
-
-包括：
-
-- HDFS
-- MapReduce
-- Hadoop Client API
+## 🌱 About Me 🌱
 
 
-### 🤖 AI Agent Project
-
-> Exploring LLM Agent applications
-
-学习：
-
-- Prompt Engineering
-- RAG
-- Agent Workflow
+🎓 Economic Statistics Student
 
 
-### 📊 Data Analysis
+💻 Big Data / Backend / AI Agent
 
-> Statistics + Data Science Practice
+
+📖 Currently learning:
+
+Hive · Hadoop · Flink · machine learning · Distributed System
+
+
+🚀 Interested in:
+
+Data Engineering & Intelligent Applications
+
+
+</div>
+
+
+---
+
+<div align="center">
+
+
+## 📊 GitHub Stats 📊
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YESTloml&show_icons=true&theme=tokyonight"/>
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YESTloml&layout=compact&theme=tokyonight"/>
+
+
+</div>
 
 
 
 ---
 
-## 📖 Learning Roadmap
+<div align="center">
+
+
+
+
+
+## 📫 Contact 📫
+
+
+Email: ye554693578@gmail.com
+
+
+</div>
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
 
 
